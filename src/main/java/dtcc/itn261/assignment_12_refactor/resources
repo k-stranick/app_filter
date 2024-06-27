@@ -1,0 +1,19 @@
+/**==================================================
+ Author: Kyle Stranick
+ Class: ITN261
+ Class Section: 201
+ Assignment: Assignment 12 - App Store - Databases, JavaFX
+ Notes:
+split logging between console and log file
+ =====================================================
+
+ Code adapted from: see resources file
+
+ ===================================================== */
+
+RESOURCES:
+https://www.javatpoint.com/instance-initializer-block
+https://docs.oracle.com/javafx/2/ui_controls/table-view.htm
+https://www.baeldung.com/java-logging-intro
+https://docs.oracle.com/en/java/javase/11/core/java-logging-overview.html
+https://docs.oracle.com/javafx/2/ui_controls/table-view.htm

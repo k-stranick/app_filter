@@ -1,0 +1,264 @@
+Apr 17, 2024 2:10:15 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:10:16 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:10:19 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 4
+Apr 17, 2024 2:10:19 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 4 AND rating < 5
+Apr 17, 2024 2:10:19 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 46
+Apr 17, 2024 2:10:21 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Apr 17, 2024 2:10:21 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < 1
+Apr 17, 2024 2:10:21 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 1
+Apr 17, 2024 2:10:24 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 2
+Apr 17, 2024 2:10:24 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 2 AND rating < 3
+Apr 17, 2024 2:10:24 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Apr 17, 2024 2:10:26 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 2:10:26 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:10:26 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:15:02 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:15:02 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:15:11 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 1
+Apr 17, 2024 2:15:11 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 1 AND rating < 2
+Apr 17, 2024 2:15:11 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Apr 17, 2024 2:15:12 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 3
+Apr 17, 2024 2:15:12 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 3 AND rating < 4
+Apr 17, 2024 2:15:13 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 3
+Apr 17, 2024 2:15:14 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 2:15:14 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:15:14 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:15:55 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:15:55 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:15:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 2:15:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:15:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:34:05 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:34:05 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:34:08 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 1
+Apr 17, 2024 2:34:08 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 1 AND rating < 2
+Apr 17, 2024 2:34:09 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Apr 17, 2024 2:34:09 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 2:34:09 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:34:09 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:34:11 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 3
+Apr 17, 2024 2:34:11 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 3 AND rating < 4
+Apr 17, 2024 2:34:11 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 3
+Apr 17, 2024 2:40:46 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 2:40:46 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 2:42:14 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 2
+Apr 17, 2024 2:42:14 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 2 AND rating < 3
+Apr 17, 2024 2:42:14 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Apr 17, 2024 3:05:02 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:05:03 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:05:05 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 3:05:05 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:05:05 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:05:06 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Apr 17, 2024 3:05:06 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < ?
+Apr 17, 2024 3:05:12 AM dtcc.itn261.assignment_12_refactor.LogUtility error
+SEVERE: Error occurred while connecting to database.
+Apr 17, 2024 3:05:13 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 3
+Apr 17, 2024 3:05:13 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= ? AND rating < ?
+Apr 17, 2024 3:05:15 AM dtcc.itn261.assignment_12_refactor.LogUtility error
+SEVERE: Error occurred while connecting to database.
+Apr 17, 2024 3:05:16 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Apr 17, 2024 3:05:16 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < ?
+Apr 17, 2024 3:05:18 AM dtcc.itn261.assignment_12_refactor.LogUtility error
+SEVERE: Error occurred while connecting to database.
+Apr 17, 2024 3:05:20 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 3:05:20 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:05:20 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:08:35 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:08:36 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:08:41 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 3
+Apr 17, 2024 3:08:41 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 3 AND rating < 4
+Apr 17, 2024 3:08:41 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 3
+Apr 17, 2024 3:08:43 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Apr 17, 2024 3:08:43 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < ?
+Apr 17, 2024 3:08:48 AM dtcc.itn261.assignment_12_refactor.LogUtility error
+SEVERE: Error occurred while querying data base.
+Apr 17, 2024 3:08:50 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 3:08:50 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:08:50 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:09:51 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:09:51 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:09:53 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Apr 17, 2024 3:09:53 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < 1
+Apr 17, 2024 3:09:53 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 1
+Apr 17, 2024 3:09:57 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 5
+Apr 17, 2024 3:09:57 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating = 5
+Apr 17, 2024 3:09:57 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Apr 17, 2024 3:09:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 4
+Apr 17, 2024 3:09:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 4 AND rating < 5
+Apr 17, 2024 3:09:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 46
+Apr 17, 2024 3:10:00 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 3:10:00 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:10:00 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:13:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:13:58 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 3:14:01 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Apr 17, 2024 3:14:01 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < 1
+Apr 17, 2024 3:14:01 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 1
+Apr 17, 2024 3:14:03 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 2
+Apr 17, 2024 3:14:03 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 2 AND rating < 3
+Apr 17, 2024 3:14:03 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Apr 17, 2024 3:14:07 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 4
+Apr 17, 2024 3:14:07 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 4 AND rating < 5
+Apr 17, 2024 3:14:07 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 46
+Apr 17, 2024 3:14:10 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Apr 17, 2024 3:14:10 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 3:14:10 AM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Apr 17, 2024 7:53:03 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Apr 17, 2024 7:53:04 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 15, 2024 12:00:09 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Jun 15, 2024 12:00:10 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 15, 2024 12:00:20 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 2
+Jun 15, 2024 12:00:20 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating >= 2 AND rating < 3
+Jun 15, 2024 12:00:20 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Jun 15, 2024 12:00:26 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: All
+Jun 15, 2024 12:00:26 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Jun 15, 2024 12:00:27 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 26, 2024 11:06:09 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Jun 26, 2024 11:06:10 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 26, 2024 11:06:17 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 5
+Jun 26, 2024 11:06:17 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating = 5
+Jun 26, 2024 11:06:17 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Jun 26, 2024 11:11:38 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Jun 26, 2024 11:11:39 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 26, 2024 11:11:53 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating = 5
+Jun 26, 2024 11:11:53 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating = 5
+Jun 26, 2024 11:11:53 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 0
+Jun 26, 2024 11:12:47 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Jun 26, 2024 11:12:47 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 26, 2024 11:13:01 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Jun 26, 2024 11:13:01 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < 1
+Jun 26, 2024 11:13:01 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 1
+Jun 26, 2024 11:18:13 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps
+Jun 26, 2024 11:18:14 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 50
+Jun 26, 2024 11:18:18 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Filter changed to: Rating < 1
+Jun 26, 2024 11:18:18 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Built SQL statement: SELECT * FROM apps WHERE rating < 1
+Jun 26, 2024 11:18:18 PM dtcc.itn261.assignment_12_refactor.LogUtility info
+INFO: Apps loaded: 1
