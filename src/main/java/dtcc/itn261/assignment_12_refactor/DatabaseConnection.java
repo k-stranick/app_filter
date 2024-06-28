@@ -21,8 +21,8 @@ import java.sql.SQLException;
  */
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/mobile_apps";
-    private static final String USER = "root";
-    private static final String PASSWORD = "aq1SW@de3FR$";
+    private static final String USER = "YOUR_USERNAME"; // here
+    private static final String PASSWORD = "YOUR_PASSWORD"; // here
 
     /**
      * Private constructor to prevent instantiation of the DatabaseConnection class.
